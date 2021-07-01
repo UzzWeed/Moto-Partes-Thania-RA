@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="9-Cupula" size="0.215000 0.215000" />
+    <ImageTarget name="8-Suspencion" size="0.215000 0.215000" />
+    <ImageTarget name="7-Escape" size="0.215000 0.215000" />
+    <ImageTarget name="6-Guardabarros" size="0.215000 0.215000" />
+    <ImageTarget name="5-Casco" size="0.215000 0.215000" />
+    <ImageTarget name="4-Neumaticos_y_Rines" size="0.215000 0.215000" />
+    <ImageTarget name="3-Chasis" size="0.215000 0.215000" />
+    <ImageTarget name="2-Gasolina" size="0.215000 0.215000" />
+    <ImageTarget name="1-Asiento" size="0.215000 0.215000" />
+  </Tracking>
+</QCARConfig>
