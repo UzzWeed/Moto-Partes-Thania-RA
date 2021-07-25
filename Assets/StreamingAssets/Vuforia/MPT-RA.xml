@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="1-Asiento_IT" size="5.000000 8.888889" />
-    <ImageTarget name="9-Cupula_IT" size="5.000000 8.888889" />
-    <ImageTarget name="8-Suspension_IT" size="5.000000 8.888889" />
-    <ImageTarget name="7-Escape_IT" size="5.000000 8.888889" />
-    <ImageTarget name="6-Guardabarros_IT" size="5.000000 8.888889" />
-    <ImageTarget name="5-Casco_IT" size="5.000000 8.888889" />
-    <ImageTarget name="4-Neumaticos_y_Rines_IT" size="5.000000 8.888889" />
-    <ImageTarget name="3-Chasis_IT" size="5.000000 8.888889" />
-    <ImageTarget name="2-Gasolina_IT" size="5.000000 8.888889" />
+    <ImageTarget name="9-Cupula_IT" size="15.000000 26.666666" />
+    <ImageTarget name="8-Suspension_IT" size="15.000000 26.666666" />
+    <ImageTarget name="7-Escape_IT" size="15.000000 26.666666" />
+    <ImageTarget name="6-Guardabarros_IT" size="15.000000 26.666666" />
+    <ImageTarget name="5-Casco_IT" size="15.000000 26.666666" />
+    <ImageTarget name="4-Neumaticos_y_Rines_IT" size="15.000000 26.666666" />
+    <ImageTarget name="3-Chasis_IT" size="15.000000 26.666666" />
+    <ImageTarget name="2-Gasolina_IT" size="15.000000 26.666666" />
+    <ImageTarget name="1-Asiento_IT" size="15.000000 26.666666" />
   </Tracking>
 </QCARConfig>
